@@ -1,0 +1,44 @@
+body{
+	background-color: green;
+}
+
+.icon{
+	padding-top: 30px;
+	display: flex;
+}
+
+.icon h3{
+	margin-top: 5px;
+}
+
+img{
+	height: 40px;
+	width: 40px;
+	margin-left: 30%;
+}
+
+.container{
+	background-color: white;
+	max-width: 30%;
+	margin-top: 100px;
+	align-content: center;
+	box-shadow: 2px 2px 3px lightgrey;
+	
+}
+
+.form{
+	border-radius: 20px;
+	padding: 30px;
+}
+
+.icon-container{
+	float: right;
+}
+
+#submit{
+	margin-left: 260px;
+}
+
+#login{
+	margin-left: 170px;
+}
